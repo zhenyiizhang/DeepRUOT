@@ -1,0 +1,17 @@
+matplotlib
+numpy<2
+torch
+torchvision
+torchaudio
+torchdiffeq
+torchsde
+scipy
+scikit-learn
+pot
+phate
+pyyaml
+tqdm
+seaborn
+pandas
+ipywidgets
+scanpy
