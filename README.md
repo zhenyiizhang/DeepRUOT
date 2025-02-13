@@ -59,7 +59,7 @@ Please check the [Tutorials](https://deepruot.readthedocs.io/en/latest/index.htm
 - Epithelial-to-Mesenchymal Transition (EMT) Data
 - Gaussian Mixture Data (20D)
 
-The examples can be found in the ```notebook``` directory. Additionally, the model weights required to reproduce the results in the paper can be found in the ```reproduce_model_weights``` directory.
+The examples can be found in the ```notebook``` directory. Additionally, the model weights required to reproduce the results in the paper can be found in the ```reproduce_model_weights``` directory. Both CUDA-enabled GPU and Mac MPS are supported for computation.
 
  
 
