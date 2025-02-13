@@ -2,7 +2,7 @@
 # See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
 
 # Required
-version: 1
+version: 2
 
 # Set the OS, Python version and other tools you might need
 build:
@@ -21,7 +21,12 @@ sphinx:
   # builder: "dirhtml"
   # Fail on all warnings to avoid broken references
   # fail_on_warning: true
-
+python:
+  install:
+  - method: pip
+    path: .
+    extra_requirements:
+    - docs
 # Optionally build your docs in additional formats such as PDF and ePub
 # formats:
 #   - pdf
