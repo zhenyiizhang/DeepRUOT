@@ -1,6 +1,5 @@
 autoapi==2.0.1
 myst-parser==4.0.1
-navigator-updater==0.4.0
 nbclient==0.8.0
 nbconvert==7.10.0
 nbformat==5.9.2
