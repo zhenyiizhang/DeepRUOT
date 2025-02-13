@@ -31,14 +31,20 @@ Reconstructing dynamics using samples from sparsely time-resolved snapshots is a
 
 ## Getting Started
 
-1. You can create a new conda environment (DeepRUOT) using
+1. Clone this repository:
+
+```vim
+git clone https://github.com/zhenyiizhang/DeepRUOT
+```
+
+2. You can create a new conda environment (DeepRUOT) using
 
 ```vim
 conda create -n DeepRUOT python=3.10 ipykernel -y
 conda activate DeepRUOT
 ```
 
-2. Install requirements and DeepRUOT
+3. Install requirements and DeepRUOT
 ```vim
 cd path_to_DeepRUOT
 pip install -r requirements.txt
