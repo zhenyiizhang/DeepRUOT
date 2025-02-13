@@ -1,7 +1,4 @@
 # %%  Adapt from MIOFlow
-__all__ = ['plot_losses', 'plot_comparision', 'new_plot_comparisions', 'plot_gene_trends']
-
-# %%  Adapt from MIOFlow
 import os, math, numpy as np, pandas as pd
 import torch
 import torch.nn as nn
