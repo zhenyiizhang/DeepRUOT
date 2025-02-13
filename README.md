@@ -7,7 +7,7 @@
   </a>
 
 
-<h3 align="center">Learning stochastic dynamics from snapshots through regularized unbalanced optimal transport (ICLR'25)</h3>
+<h3 align="center">Learning stochastic dynamics from snapshots through regularized unbalanced optimal transport (ICLR'25 oral)</h3>
 
 [Paper Link](https://openreview.net/forum?id=gQlxd3Mtru)
 
@@ -45,6 +45,17 @@ cd path_to_DeepRUOT
 pip install -e .
 ```
 
+## How to use
+
+Please check the [Tutorials]((https://deepruot.readthedocs.io/en/latest/index.html)), where we provide four examples:
+- Gene Regulatory Network Simulation
+- Mouse Hematopoiesis scRNA Data
+- Epithelial-to-Mesenchymal Transition (EMT) Data
+- Gaussian Mixture Data (20D)
+
+Additionally, the model weights required to reproduce the results in the paper can be found in the ```reproduce_model_weights``` directory.
+
+ 
 
 
 ## Contact information
