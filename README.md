@@ -47,7 +47,7 @@ pip install -e .
 
 ## How to use
 
-Please check the [Tutorials]((https://deepruot.readthedocs.io/en/latest/index.html)), where we provide four examples:
+Please check the [Tutorials](https://deepruot.readthedocs.io/en/latest/index.html), where we provide four examples:
 - Gene Regulatory Network Simulation
 - Mouse Hematopoiesis scRNA Data
 - Epithelial-to-Mesenchymal Transition (EMT) Data
