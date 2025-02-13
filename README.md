@@ -11,6 +11,7 @@
 
 [Paper Link](https://openreview.net/forum?id=gQlxd3Mtru)
 
+[![Documentation Status](https://readthedocs.org/projects/deepruot/badge/?version=latest)](https://deepruot.readthedocs.io/en/latest/?badge=latest)
 [![pytorch](https://img.shields.io/badge/PyTorch_2.0+-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
 [![license](https://img.shields.io/badge/License-License-green.svg?labelColor=gray)](https://github.com/zhenyiizhang/DeepRUOT/blob/main/LICENSE)
 [![commit](https://img.shields.io/github/last-commit/zhenyiizhang/DeepRUOT?color=blue)](https://github.com/zhenyiizhang/DeepRUOT/)
