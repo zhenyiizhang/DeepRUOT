@@ -93,7 +93,7 @@ url={https://openreview.net/forum?id=gQlxd3Mtru}
 
 ## Acknowledgments
 
-We thank the following projects for their great work to make our code possible: [MIOFlow](https://github.com/KrishnaswamyLab/MIOFlow/tree/main), [TorchCFM](https://github.com/atong01/conditional-flow-matching).
+We thank the following projects for their great work to make our code possible: [MIOFlow](https://github.com/KrishnaswamyLab/MIOFlow/tree/main), [TorchCFM](https://github.com/atong01/conditional-flow-matching). We are also grateful for the exciting work in the field of trajectory inference, which has greatly inspired and influenced our work.
 
 ## License
 DeepRUOT is licensed under the MIT License, and the code from MIOflow used in this project is subject to the Yale Non-Commercial License.
