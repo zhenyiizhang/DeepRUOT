@@ -40,8 +40,8 @@ conda activate DeepRUOT
 
 2. Install requirements and DeepRUOT
 ```vim
-pip install -r requirements.txt
 cd path_to_DeepRUOT
+pip install -r requirements.txt
 pip install -e .
 ```
 
