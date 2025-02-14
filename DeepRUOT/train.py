@@ -132,10 +132,9 @@ def train_un1(
                 if autoencoder is not None and use_emb:        
                     data_tp, data_t1 = autoencoder.encoder(data_tp), autoencoder.encoder(data_t1)
                 # loss between prediction and sample t1
-                                # 初始状态
 
                 relative_mass_now = relative_mass[i_mass]
-                #m0 = torch.zeros_like(lnw0).to(device)  # 初始 m 为 0
+                #m0 = torch.zeros_like(lnw0).to(device)  
                 data_t0=data_t0.to(device)
                 data_t1=data_t1.to(device)
                 initial_state_energy = (data_t0, lnw0)
