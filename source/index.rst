@@ -16,4 +16,4 @@ Welcome to DeepRUOT's documentation!
    contact.md
    references.md
    liscence.md
-   GitHub <https://github.com/zhenyiizhang/DeepRUOT>
+   GitHub <https://github.com/zhenyiizhang/DeepRUOTv2>
