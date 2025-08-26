@@ -1,4 +1,4 @@
-# Gaussian mixture model (20D)
+# Gaussian mixture model (20D) (v1)
 
 ```{toctree}
 :maxdepth: 1

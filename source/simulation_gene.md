@@ -1,4 +1,4 @@
-# Simulation gene regulatory network
+# Simulation gene regulatory network (v1)
 
 ```{toctree}
 :maxdepth: 1

@@ -1,8 +1,8 @@
-# EMT (v1)
+# Downstram Analysis (v2)
 
 ```{toctree}
 :maxdepth: 1
 :titlesonly: true
 
-notebook/emt
+notebook/analysis
 ```

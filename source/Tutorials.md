@@ -8,5 +8,5 @@ simulation_gene.md
 mouse_hematopoiesis.md
 emt.md
 gaussian.md
-analysis.ipynb
+analysis.md
 ```
