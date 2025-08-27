@@ -30,7 +30,7 @@ Based on the DeepRUOTv2 framework, we implement a suite of state-of-the-art dyna
 - **Dynamical Optimal Transport (OT)**: classical formulation without growth/death processes or stochastic effects.
 - **Unbalanced Dynamical OT**: extension of dynamical OT that accounts for growth and death processes, but without stochastic effects.
 - **Dynamical Schrödinger Bridge (SB)**: stochastic extension of dynamical OT without growth/death.
-- **Regularized Optimal Transport (Unbalanced Schrödinger Bridge)**: general formulation that incorporates both growth/death processes and stochasticity.
+- **Regularized Unbalanced Optimal Transport (Unbalanced Schrödinger Bridge)**: general formulation that incorporates both growth/death processes and stochasticity.
 
 Users can flexibly specify the desired model through configuration files to select the appropriate solver for their application. Furthermore, some downstream analysis can be conducted ([view tutorial](https://deepruot.readthedocs.io/en/latest/notebook/analysis.html)).
 
