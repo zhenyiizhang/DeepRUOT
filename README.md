@@ -46,7 +46,7 @@ Based on the [DeepRUOTv2](https://github.com/zhenyiizhang/DeepRUOTv2) (https://g
 
 Users can flexibly specify the desired model through configuration files to select the appropriate solver for their application. Furthermore, some downstream analysis can be conducted ([view tutorial](https://deepruot.readthedocs.io/en/latest/notebook/analysis.html)).
 
-**(2025/06/01)** We now release an updated version (v2) of DeepRUOT, which includes computations on more scRNA datasets presented in our latest work (https://arxiv.org/abs/2505.11197): Mouse Blood Hematopoiesis (50D), Embryoid Body (50D), Pancreatic $\beta$ -cell differentiation (30D) and  A549 EMT (10D). We warmly welcome everyone to use the [DeepRUOTv2](https://github.com/zhenyiizhang/DeepRUOTv2) version (https://github.com/zhenyiizhang/DeepRUOTv2).
+**(2025/06/01)** We now release an updated version (v2) of DeepRUOT, which includes computations on more scRNA datasets presented in our latest work (https://arxiv.org/abs/2505.11197): Mouse Blood Hematopoiesis (50D), Embryoid Body (50D), Pancreatic $\beta$ -cell differentiation (30D) and  A549 EMT (10D). **We warmly welcome everyone to use the new [DeepRUOTv2](https://github.com/zhenyiizhang/DeepRUOTv2) version (https://github.com/zhenyiizhang/DeepRUOTv2).**
 
 ## Getting Started
 
