@@ -25,6 +25,14 @@
 * The calculated results can now be automatically evaluated.
 * Added a new Notebook for downstream analysis at `evaluation/analysis.ipynb`. This script enables more advanced analyses, including data interpolation, inferring fate probabilities, and further gene-level studies ([view tutorial](https://deepruot.readthedocs.io/en/latest/notebook/analysis.html)).
 
+Based on the DeepRUOTv2 framework, we implement a suite of state-of-the-art dynamical optimal transport methods:
+
+- **Dynamical Optimal Transport (OT)**: classical formulation without growth/death processes or stochastic effects.
+- **Unbalanced Dynamical OT**: extension of dynamical OT that accounts for growth and death processes, but without stochastic effects.
+- **Dynamical Schrödinger Bridge (SB)**: stochastic extension of dynamical OT without growth/death.
+- **Regularized Optimal Transport (Unbalanced Schrödinger Bridge)**: general formulation that incorporates both growth/death processes and stochasticity.
+
+Users can flexibly specify the desired model through configuration files to select the appropriate solver for their application. Furthermore, some downstream analysis can be conducted ([view tutorial](https://deepruot.readthedocs.io/en/latest/notebook/analysis.html)).
 
 **(2025/06/01)** We now release an updated version (v2) of DeepRUOT, which includes computations on more scRNA datasets presented in our latest work (https://arxiv.org/abs/2505.11197): Mouse Blood Hematopoiesis (50D), Embryoid Body (50D), Pancreatic $\beta$ -cell differentiation (30D) and  A549 EMT (10D). We warmly welcome everyone to use the [DeepRUOTv2](https://github.com/zhenyiizhang/DeepRUOTv2) version (https://github.com/zhenyiizhang/DeepRUOTv2).
 
