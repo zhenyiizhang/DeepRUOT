@@ -37,7 +37,7 @@ Reconstructing dynamics using samples from sparsely time-resolved snapshots is a
 * The calculated results can now be automatically evaluated.
 * Added a new Notebook for downstream analysis at `evaluation/analysis.ipynb`. This script enables more advanced analyses, including data interpolation, inferring fate probabilities, and further gene-level studies ([view tutorial](https://deepruot.readthedocs.io/en/latest/notebook/analysis.html)).
 
-Based on the [DeepRUOTv2](https://github.com/zhenyiizhang/DeepRUOTv2) (https://github.com/zhenyiizhang/DeepRUOTv2) framework, we implement a suite of state-of-the-art dynamical optimal transport methods:
+Based on the [DeepRUOTv2](https://github.com/zhenyiizhang/DeepRUOTv2) (https://github.com/zhenyiizhang/DeepRUOTv2) framework, we implement a suite of dynamical optimal transport methods:
 
 - **Dynamical Optimal Transport (OT)**: classical formulation without growth/death processes or stochastic effects.
 - **Unbalanced Dynamical OT**: extension of dynamical OT that accounts for growth and death processes, but without stochastic effects.
